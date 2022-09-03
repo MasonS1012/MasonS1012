@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MasonS1012
 - 👀 I’m interested in becoming a software engineer 
-- 🌱 I’m currently learning on app academy open and various courses on udemy while finishing my final year of college with a degree in chemistry
 - 📫 How to reach me : dentworx68@gmail.com
 
 <!---
