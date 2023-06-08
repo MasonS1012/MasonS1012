@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MasonS1012
-- 👀 I’m interested in becoming a software engineer 
+- 👋 Hi, I’m @MasonS1012 
 - 📫 How to reach me : dentworx68@gmail.com
 
 <!---
